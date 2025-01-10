@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **FullStack CI/CD**
 
-- 🌱 I’m currently learning **DevOps methodology**
+- 🌱 I’m currently learning **Terrform Ansible**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RagavMuthukumar](https://github.com/RagavMuthukumar)
 
